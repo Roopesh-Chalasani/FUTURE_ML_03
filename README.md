@@ -2,40 +2,28 @@
 
 ## Resume Screening and Candidate Ranking System
 
-### Project Overview
-This project automates resume screening and candidate ranking using Natural Language Processing (NLP) and Machine Learning techniques.
+(Project Overview)
 
-### Features
-- Resume text preprocessing
-- Skill extraction
-- Resume-to-job matching
-- Candidate ranking
-- Skill gap identification
-- Resume score visualization
+(Features)
 
-### Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- NLTK
-- Matplotlib
+(Technologies Used)
 
-### Dataset
-Resume Dataset from Kaggle
+(Dataset)
 
-### Project Structure
+(Project Structure)
 
-FUTURE_ML_03/
-│
-├── dataset/
-├── images/
-├── notebook/
-├── requirements.txt
-└── README.md
+(Results)
 
-### Results
-The system ranks candidates based on similarity scores and identifies missing skills required for a target role.
+## Screenshots
 
-### Future Interns Task 3
-Resume / Candidate Screening System
+### Candidate Ranking
+![Candidate Ranking](images/candidate_ranking.png)
+
+### Resume Score Distribution
+![Resume Score Distribution](images/resume_score_distribution.png)
+
+### Top Candidate Scores
+![Top Candidate Scores](images/top_candidate_scores.png)
+
+### Skill Gap Analysis
+![Skill Gap Analysis](images/skill_gap_analysis.png)
